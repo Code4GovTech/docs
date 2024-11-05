@@ -1,5 +1,5 @@
 # Docs Template
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7126a0d2-2cd2-48ab-908e-3bf66217ef33/deploy-status)](https://app.netlify.com/sites/docs-template-main/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56666731-326a-46c0-b240-247a100d1fa0/deploy-status)](https://app.netlify.com/sites/c4gt-docs/deploys)
 ---
 
 - [Contributing Guide](./CONTRIBUTING.md) :flashlight:
