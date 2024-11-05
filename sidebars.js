@@ -4,15 +4,8 @@ module.exports = {
       type: 'category',
       label: 'Getting Started',
       collapsed: false,
-      items: ['index', 'intro/environment', 'intro/cli'],
+      items: ['index'],
     },
-    
-  ],
 
-  // api: [{
-  //   type: 'category',
-  //   label: 'Getting Started',
-  //   collapsed: false,
-  //   items: ['components'],
-  // }],
+  ],
 };

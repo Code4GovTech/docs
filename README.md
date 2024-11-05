@@ -4,3 +4,7 @@
 
 - [Contributing Guide](./CONTRIBUTING.md) :flashlight:
 
+### Steps to run
+- `npm install`
+- `yarn start`
+
