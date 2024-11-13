@@ -6,7 +6,7 @@ title: Onboarding
   <title>C4GT - Onboarding</title>
  </head>
 
-## Initiative
+## Goal
 
 ## Product
 

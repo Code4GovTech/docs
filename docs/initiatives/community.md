@@ -6,7 +6,7 @@ title: Community Projects
   <title>C4GT - Community Projects</title>
  </head>
 
-## Initiative
+## Goal
 
 ## Product
 

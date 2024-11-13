@@ -6,7 +6,7 @@ title: Website
   <title>C4GT - Website</title>
  </head>
 
-## Initiative
+## Goal
 
 ## Product
 
