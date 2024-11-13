@@ -1,7 +1,8 @@
 ---
-title: C4GT Documentation
-sidebar_label: Overview
+title: C4GT
+sidebar_label: Introduction
 slug: /
+id: index
 ---
 
 <head>
@@ -25,7 +26,7 @@ evolving DPGs/DPI & Tech for Good ecosystem, enhancing the efficiency and qualit
 and aligning the incentives for both organizations and contributors.
 More about C4GT here: https://codeforgovtech.in/
 
-## Audience
+## This Website Audience
 
 This website tries to document the tech systems powering the C4GT initiatives. If you are a product
 manager, community manager or a software engineer, wanting to understand how to build a system that

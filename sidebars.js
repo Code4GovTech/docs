@@ -1,11 +1,16 @@
 module.exports = {
   docs: [
-    {
-      type: 'category',
-      label: 'Getting Started',
-      collapsed: false,
-      items: ['index'],
-    },
-
+    'index',
+     {
+                   type: 'category',
+                   label: 'Initiatives',
+                   collapsed: false,
+                   items: [
+                     'initiatives/onboarding',
+                     'initiatives/community',
+                     'initiatives/dmp',
+                     'initiatives/website',
+                   ],
+                 },
   ],
 };
