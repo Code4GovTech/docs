@@ -12,27 +12,16 @@ The C4GT community forms the core of the C4GT program, serving as a dynamic brid
 ### Exploring Contribution Opportunities:
 
 
-Users visit the C4GT website to discover opportunities to contribute.
-They can join the C4GT community through an onboarding process.
+Users visit the C4GT website to discover opportunities to contribute and they join the C4GT community through an onboarding process.
 
 ### Community Engagement:
 
 
-After joining the community server, users connect with:
-Participating organizations.
-Fellow contributors for collaboration and support in achieving ticket milestones.
-This fosters a collaborative environment for learning and growth.
+After joining the community server, users connect with participating organizations and fellow contributors for collaboration and support in achieving ticket milestones. This fosters a collaborative environment for learning and growth.
 
 ### Ticket Tracking:
 
-
-Users explore available tickets on the website and on GitHub.
-The C4GT community bot collects all relevant ticket-related data:
-Ticket content.
-Status updates (open, in-progress, closed).
-Comments and discussions on tickets.
-Timestamps of activities.
-Pull Requests (PRs) raised and merged.
+Users explore available tickets on the website and on GitHub. The C4GT community bot collects all relevant ticket-related data including ticket content, status updates (open, in-progress, closed), comments and discussions on tickets, timestamps of activities, Pull Requests (PRs) raised and merged, etc.
 
 ### Role Assignment:
 
@@ -42,12 +31,10 @@ Based on the data collected by the bot, contributors are assigned specific roles
 ### Ticket Closure and Points Allocation:
 
 
-When contributors submit solutions, ticket owners review and close the tickets upon acceptance.
-Points are awarded to contributors based on the difficulty level of the tickets.
+When contributors submit solutions, ticket owners review and close the tickets upon acceptance. Points are then awarded to contributors based on the difficulty level of the tickets.
 
 ### Leaderboard and Recognition:
 
-Points are reflected on a leaderboard displayed on the C4GT website.
-Contributors are ranked based on their accumulated points, providing recognition for their efforts.
+Points are reflected on a leaderboard displayed on the C4GT website and contributors are ranked based on their accumulated points, providing recognition for their efforts.
 
 ## Tech
