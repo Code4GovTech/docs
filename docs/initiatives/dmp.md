@@ -25,7 +25,9 @@ years of professional experience.
 
 ## Product
 
-WIP
+In DMP 2023, contributors and mentors tracked project completion using a Vercel app and dedicated a significant amount of time to manually update markdown files to showcase project completion. This meant that progress tracking was not always up-to-date as and when required, and C4GT organizers were not able to intervene on time to resolve project bottlenecks. And in DMP 2024, with the project count increasing exponentially, the need for a smoother, more efficient tracking system had become paramount.
+
+The revamped C4GT DMP CMS aimed to solve this by providing a platform for monitoring the progress of such open-source projects assigned to contributors during the Dedicated Mentoring Program(DMP) period of 3 months. The revamped Vercel app enabled easier and more efficient collaboration between contributors and mentors by linking to GitHub directly, while providing visibility to other relevant stakeholders. And a new second module, the dashboard, allowed administrators/organizers to set certain criterion and be flagged in time to swiftly resolve bottlenecks. 
 
 ## Tech
 
