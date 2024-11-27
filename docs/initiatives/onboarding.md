@@ -9,6 +9,7 @@ title: Onboarding
 ## Goal
 The C4GT onboarding flow provides a seamless experience for contributors joining the C4GT community, enabling personalized interactions that enhance their journey within the community
 ## Product
+
 ### Discovering C4GT:
 
 
