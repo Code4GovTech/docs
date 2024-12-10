@@ -38,3 +38,7 @@ When contributors submit solutions, ticket owners review and close the tickets u
 Points are reflected on a leaderboard displayed on the C4GT website and contributors are ranked based on their accumulated points, providing recognition for their efforts.
 
 ## Tech
+
+
+![C4GT Community flow](../.assets/C4GT-Community.jpg)
+[Source](https://drive.google.com/file/d/1hzB6voh36gB87t9LrPLWLlBboRl2bziM/view?usp=sharing)
